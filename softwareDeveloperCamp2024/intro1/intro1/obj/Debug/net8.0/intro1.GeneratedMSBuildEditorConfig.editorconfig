@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = intro1
-build_property.ProjectDir = /Users/naznehiralicavus/RiderProjects/intro1/intro1/
+build_property.ProjectDir = /Users/naznehiralicavus/RiderProjects/TobetoPlatformFinalProject-Pair3/softwareDeveloperCamp2024/softwareDeveloperCamp2024/intro1/intro1/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

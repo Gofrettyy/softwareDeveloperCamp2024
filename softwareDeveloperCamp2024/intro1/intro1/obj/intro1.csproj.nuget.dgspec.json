@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/naznehiralicavus/RiderProjects/intro1/intro1/intro1.csproj": {}
+    "/Users/naznehiralicavus/RiderProjects/TobetoPlatformFinalProject-Pair3/softwareDeveloperCamp2024/softwareDeveloperCamp2024/intro1/intro1/intro1.csproj": {}
   },
   "projects": {
-    "/Users/naznehiralicavus/RiderProjects/intro1/intro1/intro1.csproj": {
+    "/Users/naznehiralicavus/RiderProjects/TobetoPlatformFinalProject-Pair3/softwareDeveloperCamp2024/softwareDeveloperCamp2024/intro1/intro1/intro1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/naznehiralicavus/RiderProjects/intro1/intro1/intro1.csproj",
+        "projectUniqueName": "/Users/naznehiralicavus/RiderProjects/TobetoPlatformFinalProject-Pair3/softwareDeveloperCamp2024/softwareDeveloperCamp2024/intro1/intro1/intro1.csproj",
         "projectName": "intro1",
-        "projectPath": "/Users/naznehiralicavus/RiderProjects/intro1/intro1/intro1.csproj",
+        "projectPath": "/Users/naznehiralicavus/RiderProjects/TobetoPlatformFinalProject-Pair3/softwareDeveloperCamp2024/softwareDeveloperCamp2024/intro1/intro1/intro1.csproj",
         "packagesPath": "/Users/naznehiralicavus/.nuget/packages/",
-        "outputPath": "/Users/naznehiralicavus/RiderProjects/intro1/intro1/obj/",
+        "outputPath": "/Users/naznehiralicavus/RiderProjects/TobetoPlatformFinalProject-Pair3/softwareDeveloperCamp2024/softwareDeveloperCamp2024/intro1/intro1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/naznehiralicavus/.nuget/NuGet/NuGet.Config"
