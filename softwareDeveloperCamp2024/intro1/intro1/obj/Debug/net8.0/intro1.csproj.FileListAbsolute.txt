@@ -1,0 +1,15 @@
+/Users/naznehiralicavus/RiderProjects/TobetoPlatformFinalProject-Pair3/softwareDeveloperCamp2024/softwareDeveloperCamp2024/intro1/intro1/bin/Debug/net8.0/intro1
+/Users/naznehiralicavus/RiderProjects/TobetoPlatformFinalProject-Pair3/softwareDeveloperCamp2024/softwareDeveloperCamp2024/intro1/intro1/bin/Debug/net8.0/intro1.deps.json
+/Users/naznehiralicavus/RiderProjects/TobetoPlatformFinalProject-Pair3/softwareDeveloperCamp2024/softwareDeveloperCamp2024/intro1/intro1/bin/Debug/net8.0/intro1.runtimeconfig.json
+/Users/naznehiralicavus/RiderProjects/TobetoPlatformFinalProject-Pair3/softwareDeveloperCamp2024/softwareDeveloperCamp2024/intro1/intro1/bin/Debug/net8.0/intro1.dll
+/Users/naznehiralicavus/RiderProjects/TobetoPlatformFinalProject-Pair3/softwareDeveloperCamp2024/softwareDeveloperCamp2024/intro1/intro1/bin/Debug/net8.0/intro1.pdb
+/Users/naznehiralicavus/RiderProjects/TobetoPlatformFinalProject-Pair3/softwareDeveloperCamp2024/softwareDeveloperCamp2024/intro1/intro1/obj/Debug/net8.0/intro1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naznehiralicavus/RiderProjects/TobetoPlatformFinalProject-Pair3/softwareDeveloperCamp2024/softwareDeveloperCamp2024/intro1/intro1/obj/Debug/net8.0/intro1.AssemblyInfoInputs.cache
+/Users/naznehiralicavus/RiderProjects/TobetoPlatformFinalProject-Pair3/softwareDeveloperCamp2024/softwareDeveloperCamp2024/intro1/intro1/obj/Debug/net8.0/intro1.AssemblyInfo.cs
+/Users/naznehiralicavus/RiderProjects/TobetoPlatformFinalProject-Pair3/softwareDeveloperCamp2024/softwareDeveloperCamp2024/intro1/intro1/obj/Debug/net8.0/intro1.csproj.CoreCompileInputs.cache
+/Users/naznehiralicavus/RiderProjects/TobetoPlatformFinalProject-Pair3/softwareDeveloperCamp2024/softwareDeveloperCamp2024/intro1/intro1/obj/Debug/net8.0/intro1.sourcelink.json
+/Users/naznehiralicavus/RiderProjects/TobetoPlatformFinalProject-Pair3/softwareDeveloperCamp2024/softwareDeveloperCamp2024/intro1/intro1/obj/Debug/net8.0/intro1.dll
+/Users/naznehiralicavus/RiderProjects/TobetoPlatformFinalProject-Pair3/softwareDeveloperCamp2024/softwareDeveloperCamp2024/intro1/intro1/obj/Debug/net8.0/refint/intro1.dll
+/Users/naznehiralicavus/RiderProjects/TobetoPlatformFinalProject-Pair3/softwareDeveloperCamp2024/softwareDeveloperCamp2024/intro1/intro1/obj/Debug/net8.0/intro1.pdb
+/Users/naznehiralicavus/RiderProjects/TobetoPlatformFinalProject-Pair3/softwareDeveloperCamp2024/softwareDeveloperCamp2024/intro1/intro1/obj/Debug/net8.0/intro1.genruntimeconfig.cache
+/Users/naznehiralicavus/RiderProjects/TobetoPlatformFinalProject-Pair3/softwareDeveloperCamp2024/softwareDeveloperCamp2024/intro1/intro1/obj/Debug/net8.0/ref/intro1.dll
